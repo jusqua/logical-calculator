@@ -1,13 +1,6 @@
 # logical-calculator
 It is a logical calculator made in Java to evaluate logical expressions
 
-#### See a preview on [Replit](https://replit.com/@jusqua/logical-calculator)
-
-### Build
-```bash
-javac Main.java && java Main
-```
-
 ### Usage
   - The __operators__ and __operands__ are comma (,) separated
   - The __binary__ operators operate on the last two operands
